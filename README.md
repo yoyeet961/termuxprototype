@@ -1,4 +1,4 @@
-# Unnamed Project
+# Common Package Installer
 This is NOT a hacking tool, or anything like that. It is just a prototype that I'm going to be trying to make. Enjoy...?
 
 ## Installation
@@ -18,8 +18,12 @@ To install, run the following commands:
 
 `bash pkginstall.sh`
 
-`chmod +x prt.sh`
+Done!
 
-`bash prt.sh`
+## FILL VERSION, DO NOT EXECUTE UNLESS YOU HAVE ENOUGH SPACE IN YOUR PHONE. THIS COULD TAKE UP AROUND 600 MB
+
+`chmod +x fill.sh`
+
+`bash fill.sh`
 
 Done! Enjoy...?
