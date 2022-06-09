@@ -1,0 +1,2 @@
+# termuxprototype
+yes
